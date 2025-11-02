@@ -1,4 +1,1 @@
-Hello
-This is pretty cool
-Git Plugin Installed
-Cool
+Welcome to TheSynchedVault created by Vishnu!!!
