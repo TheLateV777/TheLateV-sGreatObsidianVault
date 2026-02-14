@@ -25,18 +25,14 @@
             "id": "2d8c118d3e170443",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "To Do List.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "To Do List"
+              "icon": "lucide-file",
+              "title": "Welcome"
             }
           }
         ],
@@ -202,8 +198,8 @@
   },
   "active": "2d8c118d3e170443",
   "lastOpenFiles": [
-    "Welcome.md",
     "To Do List.md",
+    "Welcome.md",
     "Chatting.md",
     "Untitled.base",
     "create a link.md"
